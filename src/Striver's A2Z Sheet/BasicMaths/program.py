@@ -5,7 +5,7 @@ n = int(input("Enter the Number : "))
 
 class MathProgram:
     def __init__(self):
-        pass
+        print("\nLearning the Basic Maths\n")
     
     # Count digits in a number
     def countDigits(self,n):

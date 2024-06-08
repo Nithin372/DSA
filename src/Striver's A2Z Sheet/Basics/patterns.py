@@ -3,7 +3,7 @@ n = int(input('Enter yur Input : '))
 
 class Pattern:
     def _init_(self):
-        print('\nStarting the Constructor\n')
+        print('\nLearning the Different Patterns\n')
 
     def str_pattern_1(self, n):
         i = 1
